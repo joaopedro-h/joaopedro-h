@@ -18,6 +18,21 @@ Olá, meu nome é João Pedro👋
 
 ---
 
+### 🛠️ Tecnologias
+
+#### 💻 Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-D4B830?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🚀 Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### 🗄 Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Em%20Aprendizado-FFA500?style=for-the-badge)
+
+---
+
 ### 📜 Certificados
 
 - Lógica de Programação – *Udemy (2026)*
