@@ -1,15 +1,5 @@
 Olá, meu nome é João Pedro👋
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🌐 Conecte-se comigo.
 <div> 
   <a href="https://instagram.com/jaoo_x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,8 +25,9 @@ Olá, meu nome é João Pedro👋
 
 ### 📜 Certificados
 
-- Lógica de Programação – *Udemy (2026)*
-- Lógica de Programação em C – *Prof. Pietro Martins*
+- Lógica de Programação – *Prof. Nélio Alves - Udemy (2026)*
+- Lógica de Programação em C – *Prof. Pietro Martins - MemberTizze (2026)*
+- JavaScript – *Prof. André Iacono - Udemy (2026)*
 
 ---
 
