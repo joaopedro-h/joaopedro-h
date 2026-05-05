@@ -16,10 +16,8 @@ Olá, meu nome é João Pedro👋
 
 #### 🎨 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Status](https://img.shields.io/badge/Em%20Aprendizado-FFA500?style=for-the-badge)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Status](https://img.shields.io/badge/Em%20Aprendizado-FFA500?style=for-the-badge)
 
 #### 🚀 Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,6 +33,7 @@ Olá, meu nome é João Pedro👋
 - Lógica de Programação – *Prof. Nélio Alves - Udemy (2026)*
 - Lógica de Programação em C – *Prof. Pietro Martins - MemberTizze (2026)*
 - JavaScript – *Prof. André Iacono - Udemy (2026)*
+- HTML & CSS – *Prof. Wagner Cardoso - Udemy (2026)*
 
 ---
 
