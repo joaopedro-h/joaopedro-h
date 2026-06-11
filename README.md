@@ -24,7 +24,6 @@ Olá, meu nome é João Pedro👋
 
 #### 🗄 Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Status](https://img.shields.io/badge/Em%20Aprendizado-FFA500?style=for-the-badge)
 
 ---
 
@@ -34,6 +33,7 @@ Olá, meu nome é João Pedro👋
 - Lógica de Programação em C – *Prof. Pietro Martins - MemberTizze (2026)*
 - JavaScript – *Prof. André Iacono - Udemy (2026)*
 - HTML & CSS – *Prof. Wagner Cardoso - Udemy (2026)*
+- MySQL – *Prof. André Iacono - Udemy (2026)*
 
 ---
 
