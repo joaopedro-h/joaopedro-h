@@ -8,14 +8,6 @@ Olá, meu nome é João Pedro👋
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopedro-h&show_icons=true&theme=nord"/>
-
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaopedro-h&layout=compact&theme=nord"/>
-</div>
-
----
-
 ### 🛠️ Tecnologias
 
 #### 💻 Linguagens
