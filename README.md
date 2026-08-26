@@ -41,6 +41,7 @@ Olá, meu nome é João Pedro👋
 - JavaScript – *Prof. André Iacono - Udemy (2026)*
 - HTML & CSS – *Prof. Wagner Cardoso - Udemy (2026)*
 - MySQL – *Prof. André Iacono - Udemy (2026)*
+- API Rest – *Prof. Matheus Fraga - Udemy (2026)*
 
 ---
 
