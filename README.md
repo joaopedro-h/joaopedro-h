@@ -11,8 +11,9 @@ Olá, meu nome é João Pedro👋
 ### 🛠️ Tecnologias
 
 #### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-D4B830?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4B830?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Em aprendizado](https://img.shields.io/badge/Em%20Aprendizado-FFA500?style=for-the-badge)
 
 #### 🎨 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,7 +49,7 @@ Olá, meu nome é João Pedro👋
 ### 🎓 Educação
 
 **Análise e Desenvolvimento de Sistemas**  
-Multivix – Ibatiba/ES, Brasil  
+Multivix – Vitória/ES, Brasil  
 *Formatura: 2027*
 
 ---
