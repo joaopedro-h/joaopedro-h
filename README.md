@@ -43,6 +43,7 @@ Olá, meu nome é João Pedro👋
 - HTML & CSS – *Prof. Wagner Cardoso - Udemy (2026)*
 - MySQL – *Prof. André Iacono - Udemy (2026)*
 - API Rest – *Prof. Matheus Fraga - Udemy (2026)*
+- TypeScript – *Prof. André Iacono - Udemy (2026) - Em andamento ⏳*
 
 ---
 
